@@ -1,1 +1,1 @@
-export { ItemContainer, Layout } from "./generals";
+export { ItemContainer, Layout, CustomImage, ScrollCustom } from "./generals";

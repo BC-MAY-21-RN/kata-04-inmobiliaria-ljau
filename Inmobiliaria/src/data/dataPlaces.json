@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "url": "https://images.realty.mx/ecda8ff7933831de47cded3bb238b613/images/assets/1591547_107687756.jpg",
+        "name": "Yorkville",
+        "address": "1694 SECOND AVENUE, #5N",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "size": "550ft²",
+        "rentCost": "$2301/m",
+        "rate": 4.5
+    },
+    {
+        "id": 2,
+        "url": "https://images.realty.mx/ecda8ff7933831de47cded3bb238b613/images/assets/1690216_113689807.jpg",
+        "name": "Upper East Side",
+        "address": "222 EAST 84TH STREET, #1C",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "size": "330ft²",
+        "rentCost": "$2300/m",
+        "rate": 4.7
+    },
+    {
+        "id": 3,
+        "url": "https://images.realty.mx/ecda8ff7933831de47cded3bb238b613/images/assets/1660699_112252255.jpg",
+        "name": "East Village",
+        "address": "413 EAST 9TH STREET, #5C",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "size": "510ft²",
+        "rentCost": "$2295/m",
+        "rate": 4.0
+    },
+    {
+        "id": 4,
+        "url": "https://images.realty.mx/ecda8ff7933831de47cded3bb238b613/images/assets/1689287_113652468.jpg",
+        "name": "Jamaica Estate",
+        "address": "17802 HILLSIDE AVENUE, #810",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "size": "577ft²",
+        "rentCost": "$2250/m",
+        "rate": 3.8
+    },
+    {
+        "id": 5,
+        "url": "https://images.realty.mx/ecda8ff7933831de47cded3bb238b613/images/assets/1688059_113607037.jpg",
+        "name": "East Harlem",
+        "address": "2234 FIRST AVENUE, #5",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "size": "540ft²",
+        "rentCost": "$2250/m",
+        "rate": 4.9
+    },
+    {
+        "id": 6,
+        "url": "https://images.realty.mx/ecda8ff7933831de47cded3bb238b613/images/assets/1688937_113638611.jpg",
+        "name": "Hudson Heights",
+        "address": "825 WEST 187TH STREET, #7K",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "size": "500ft²",
+        "rentCost": "$2095/m",
+        "rate": 4.2
+    }
+]
