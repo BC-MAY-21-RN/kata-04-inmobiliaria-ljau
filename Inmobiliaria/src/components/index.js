@@ -1,1 +1,9 @@
-export { ItemContainer, Layout, CustomImage, ScrollCustom } from "./generals";
+export {
+  Layout,
+  ScrollCustom,
+  ItemContainer,
+  ImageContainer,
+  DataContainer,
+  CustomImage,
+  CustomText,
+} from './generals';
