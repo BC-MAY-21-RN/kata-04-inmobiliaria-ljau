@@ -6,4 +6,5 @@ export {
   DataContainer,
   CustomImage,
   CustomText,
+  IconContainer,
 } from './generals';
