@@ -34,7 +34,10 @@ export const MainContainer = () => {
                 <CustomText fs={'20px'} fw={'bold'}>
                   {value.name}
                 </CustomText>
+                <IconContainer w={'90%'}>
+                <Ionicon name="location-outline" color="#ABABAB" size={20} />
                 <CustomText clr={'#909090'}>{value.address}</CustomText>
+                </IconContainer>
                 <ItemContainer h={'15%'}>
                   <IconContainer w={'20%'}>
                     <Ionicon name="bed-outline" color="#ABABAB" size={30} />
@@ -51,7 +54,7 @@ export const MainContainer = () => {
                 </ItemContainer>
                 <IconContainer>
                 <CustomText fs={'18px'} fw={'bold'}>{value.rentCost}</CustomText>
-                <Ionicon name="heart-outline" size={30} />
+                <Ionicon name="heart-circle-outline" size={30} color={'#0CBE60'}/>
                 </IconContainer>
               </DataContainer>
             </ItemContainer>

@@ -31,7 +31,7 @@ export const ItemContainer = styled.View`
 
 export const ImageContainer = styled.View`
   height: 70%;
-  width: 45%;
+  width: 40%;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -42,7 +42,7 @@ export const ImageContainer = styled.View`
 
 export const DataContainer = styled.View`
   height: 80%;  
-  width: 50%;
+  width: 55%;
   display: flex;
   justify-content: space-evenly;
   flex-direction: column;
