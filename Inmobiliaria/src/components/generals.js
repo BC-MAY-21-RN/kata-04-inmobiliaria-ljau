@@ -17,7 +17,7 @@ export const ScrollCustom = styled.ScrollView`
 `;
 
 export const ItemContainer = styled.View`
-  height: ${({h}) => h ?? 200};
+  height: ${({h}) => h ?? '200px'};
   width: 100%;
   display: flex;
   justify-content: space-around;
@@ -60,8 +60,8 @@ export const CustomImage = styled.ImageBackground`
 
 export const CustomText = styled.Text`
   color: ${({clr}) => clr ?? '#000'};
-  font-size: ${({fs}) => fs ?? '12px'};
-  font-weight: ${({fw}) => fw ?? 'normal'};
+  font-size: ${({fs}) => fs ?? '15px'};
+  font-weight: ${({fw}) => fw ?? 'bold'};
 `;
 
 export const IconContainer = styled.View`
