@@ -30,13 +30,8 @@ export const MainContainer = () => {
                 </CustomImage>
               </ImageContainer>
               <DataContainerBox
-                name={value.name}
-                address={value.address}
-                beds={value.bedrooms}
-                baths={value.bathrooms}
-                size={value.size}
-                cost={value.rentCost}
-              />
+                name={value.name} address={value.address} beds={value.bedrooms} 
+                baths={value.bathrooms} size={value.size} cost={value.rentCost}/>
             </ItemContainer>
           );
         })}
